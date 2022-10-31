@@ -1,4 +1,4 @@
-1[](https://github.com/CaioVArruda/Python/blob/main/PowerBI-Blog-1024x683-2.jpg)
+![](https://github.com/CaioVArruda/Python/blob/main/PowerBI-Blog-1024x683-2.jpg)
 
 # PowerBI
 
