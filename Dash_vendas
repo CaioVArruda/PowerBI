@@ -1,1 +1,4 @@
-
+$ git rm Dash_vendas
+Mudanças a serem submetidas:
+        deleted:   Dash_vendas
+$ git commit -m "Dash_vendas removido"
